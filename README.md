@@ -1,6 +1,6 @@
 # tidyRnaEdit_exampledata
 
-`*outTable.gz` files are REDItools outTables on chr17.
+`*outTable.gz` files are REDItools outTables, only chr17 included.
 `reditools_sample.xlsx` file is a dataframe of 3 columns, including filepath, sampleid, group.
 
 outTable is the standard output by [REDItools](https://github.com/BioinfoUNIBA/REDItools2).
